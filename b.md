@@ -4,4 +4,6 @@ this is contrast
 
 contrast  distinct  expression
 this is 3 times  contrast 明显的
-flexable  git branch 
+flexable  git branch
+flexable
+contrast
