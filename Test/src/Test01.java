@@ -17,6 +17,9 @@ public class Test01 {
 	//	System.out.println("end "+counter); */
 	}
 
+	this is my
+		wojia
+		wocao
 	public static  void main001 (){
 
 		System.out.println("jinla重货ile");
